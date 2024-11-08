@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>My name is Sanket Patel.<br>I'm am a Flutter Developer from India 🇮🇳.</h2>
+<h2 align="left">Hi 👋! <br>My name is Sanket Patel.<br>I'm am a Mobile Application Developer from India 🇮🇳.</h2>
 
 ###
 
