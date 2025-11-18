@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi+There!+👋;I'm+Sanket+Patel;Mobile+Application+Developer;Flutter+%26+React+Native+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Hi+There!+👋;I'm+Sanket+Patel;Mobile+Application+Developer;From+India+🇮🇳" />
   </a>
 </div>
 
