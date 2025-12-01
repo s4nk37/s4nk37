@@ -44,24 +44,61 @@ I'm a passionate **Mobile Application Developer** specializing in creating **fas
 ### Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Frontend Frameworks
+### Frameworks & UI
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend & Services
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+![Cupertino](https://img.shields.io/badge/Cupertino-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Architecture & State Management
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-5C2D91?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-512BD4?style=for-the-badge)
+![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Hooks](https://img.shields.io/badge/React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter Hooks](https://img.shields.io/badge/Flutter_Hooks-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend, Data & Networking
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFA611?style=for-the-badge&logo=firebase&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-E37933?style=for-the-badge&logo=hive&logoColor=white)
+![Sqflite](https://img.shields.io/badge/Sqflite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge)
+![Dio](https://img.shields.io/badge/Dio-02569B?style=for-the-badge&logo=dart&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+### Integrations
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
+![Camera](https://img.shields.io/badge/Camera-000000?style=for-the-badge&logo=camera&logoColor=white)
+![NFC](https://img.shields.io/badge/NFC-002E5D?style=for-the-badge)
+![GPS](https://img.shields.io/badge/GPS-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+![Push Notifications](https://img.shields.io/badge/Push_Notifications-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
+![Google Sign-In](https://img.shields.io/badge/Google_Sign--In-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-2E3192?style=for-the-badge)
+
+### Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![App Store Connect](https://img.shields.io/badge/App_Store_Connect-0D96F6?style=for-the-badge&logo=apple&logoColor=white)
+![Play Console](https://img.shields.io/badge/Play_Console-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 </div>
 
@@ -70,8 +107,8 @@ I'm a passionate **Mobile Application Developer** specializing in creating **fas
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s4nk37&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=files,manojpawarsj12.github.io,Event-Notifier&rank_icon=github&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4nk37&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html&title_color=7aa2f7&text_color=c0caf5" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s4nk37&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=files,manojpawarsj12.github.io,Event-Notifier&rank_icon=percentile&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&show=reviews,prs_merged,prs_merged_percentage" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4nk37&layout=compact&langs_count=8&card_width=350&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css&title_color=7aa2f7&text_color=c0caf5" height="180" alt="Top Languages" />
 </div>
 
 <br/>
