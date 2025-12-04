@@ -107,8 +107,12 @@ I'm a passionate **Mobile Application Developer** specializing in creating **fas
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=s4nk37&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=files,manojpawarsj12.github.io,Event-Notifier&rank_icon=percentile&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&show=reviews,prs_merged,prs_merged_percentage" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=s4nk37&layout=compact&langs_count=8&card_width=350&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css&title_color=7aa2f7&text_color=c0caf5" height="180" alt="Top Languages" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=s4nk37&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=files,manojpawarsj12.github.io,Event-Notifier&rank_icon=percentile&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&show=reviews,prs_merged,prs_merged_percentage" height="180" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=s4nk37&layout=compact&langs_count=8&card_width=350&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css&title_color=7aa2f7&text_color=c0caf5" height="180" alt="Top Languages" /></td>
+    </tr>
+  </table>
 </div>
 
 <br/>
